@@ -1,0 +1,17 @@
+[General]
+ipc_version=4
+file=char_sdpb
+module=char_SDPB
+target_device=gw5at138b-012
+type=ram_sdpb
+version=1.0
+
+[Config]
+BYTE_SIZE=0
+DEPTH_A=256
+DEPTH_B=256
+LANG=0
+READ=0
+RESET_MODE=true
+WIDTH_A=8
+WIDTH_B=8

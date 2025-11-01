@@ -1,0 +1,15 @@
+[General]
+ipc_version=4
+file=asscii_rom
+module=asscii_rom
+target_device=gw5at138b-012
+type=ram_prom
+version=1.0
+
+[Config]
+DEPTH=3040
+LANG=0
+MEM_FILE=C:\\Gowin\\asscii.TXT
+READ=0
+RESET_MODE=true
+WIDTH=16

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW5AT-138B" package="PBGA484A" speed="1" partNumber="GW5AT-LV138PG484AC1/I0"/>
+    <FileList>
+        <File path="D:/work/waresoft/Gowin2/Gowin_V1.9.10.03_x64/IDE/ipcore/DDR/data/ddr_138k.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="1"/>
+        <Option type="enable_dsrm" value="0"/>
+        <Option type="include_path" value="D:/work/waresoft/Gowin2/Gowin_V1.9.10.03_x64/IDE/ipcore/DDR/data"/>
+        <Option type="include_path" value="D:/work/waresoft/Gowin2/workspace/720-138K/ch33_rom_char_tft_hdmi/rom_char_tft800x480_224x64/rom_char_tft_hdmi/src/gowin_ddr/temp/DDR"/>
+        <Option type="output_file" value="gowin_ddr.vg"/>
+        <Option type="output_template" value="gowin_ddr_tmp.v"/>
+        <Option type="ram_balance" value="1"/>
+        <Option type="ram_rw_check" value="1"/>
+        <Option type="vcc" value="0.9"/>
+        <Option type="vccx" value="1.8"/>
+        <Option type="verilog_language" value="sysv-2017"/>
+    </OptionList>
+</Project>
